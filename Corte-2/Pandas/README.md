@@ -51,6 +51,7 @@ Se trabajó con columnas como:
 ### Resultado obtenido
 
 ![DataFrame]
+
 <img width="656" height="245" alt="image" src="https://github.com/user-attachments/assets/1793fa45-4af4-4163-9767-c4b469714204" />
 
 
@@ -67,7 +68,9 @@ Además, se crearon nuevas columnas como:
 
 ### Resultado obtenido
 
-![Operaciones] <img width="671" height="234" alt="image" src="https://github.com/user-attachments/assets/4667633a-5382-4a55-80f5-e71f18b8defc" />
+![Operaciones]
+
+<img width="671" height="234" alt="image" src="https://github.com/user-attachments/assets/4667633a-5382-4a55-80f5-e71f18b8defc" />
 
 
 ---
@@ -80,7 +83,9 @@ También se analizaron datos relacionados con usuarios y planes de una plataform
 
 ### Resultado obtenido
 
-![CSV] <img width="470" height="262" alt="image" src="https://github.com/user-attachments/assets/7af1dee2-8863-461e-908b-b4632c3ad992" />
+![CSV]
+
+<img width="470" height="262" alt="image" src="https://github.com/user-attachments/assets/7af1dee2-8863-461e-908b-b4632c3ad992" />
 
 
 ---
@@ -95,7 +100,9 @@ Se generaron datos aleatorios utilizando NumPy para simular:
 
 ### Resultado obtenido
 
-![Datos sintéticos] <img width="699" height="490" alt="image" src="https://github.com/user-attachments/assets/3e6a5f2c-7907-40b5-a055-c266a96e5f13" />
+![Datos sintéticos]
+
+<img width="699" height="490" alt="image" src="https://github.com/user-attachments/assets/3e6a5f2c-7907-40b5-a055-c266a96e5f13" />
 
 
 ---
@@ -117,7 +124,9 @@ para obtener:
 
 ### Resultado obtenido
 
-![Estadísticas] <img width="618" height="341" alt="image" src="https://github.com/user-attachments/assets/6e2ebd0c-ce64-4096-8b56-aeec80dd3940" />
+![Estadísticas]
+
+<img width="618" height="341" alt="image" src="https://github.com/user-attachments/assets/6e2ebd0c-ce64-4096-8b56-aeec80dd3940" />
 
 
 
