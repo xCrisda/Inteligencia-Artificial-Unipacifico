@@ -1,0 +1,61 @@
+Producto;Precio;Cantidad;Costo_Envio;Categoria
+Laptop;3500000;4;50000;Tecnología
+Mouse;80000;15;10000;Tecnología
+Teclado;120000;10;12000;Tecnología
+Silla Gamer;450000;5;30000;Tecnología
+Escritorio Gamer;900000;3;40000;Tecnología
+Monitor;1100000;6;35000;Tecnología
+Impresora;650000;7;25000;Tecnología
+Cámara Web;180000;12;15000;Tecnología
+Disco Duro Externo;320000;8;18000;Tecnología
+Memoria USB;45000;25;8000;Tecnología
+Tablet;980000;5;28000;Tecnología
+Celular Samsung;2200000;9;30000;Tecnología
+Celular iPhone;5200000;4;40000;Tecnología
+Audífonos Bluetooth;150000;20;10000;Tecnología
+Parlante Bluetooth;210000;10;12000;Tecnología
+Smartwatch;350000;11;15000;Tecnología
+Router WiFi;270000;6;14000;Tecnología
+Cable HDMI;35000;30;5000;Tecnología
+Micrófono USB;190000;7;12000;Tecnología
+Tarjeta Gráfica;1800000;3;35000;Tecnología
+Procesador Intel;1400000;4;30000;Tecnología
+Memoria RAM 16GB;280000;15;10000;Tecnología
+Fuente de Poder;320000;9;12000;Tecnología
+SSD 1TB;450000;10;15000;Tecnología
+Cámara Digital;2500000;2;45000;Tecnología
+Drone;3200000;3;50000;Tecnología
+Consola PS5;3100000;5;40000;Tecnología
+Xbox Series X;2900000;4;40000;Tecnología
+Nintendo Switch;1800000;6;30000;Tecnología
+Mouse Pad RGB;70000;18;7000;Tecnología
+Proyector;1500000;4;35000;Tecnología
+Scanner;420000;5;18000;Tecnología
+Regulador de Voltaje;130000;9;10000;Tecnología
+UPS;550000;6;20000;Tecnología
+Lámpara LED USB;45000;14;6000;Tecnología
+Webcam HD;220000;7;12000;Tecnología
+Tablet Gráfica;680000;5;18000;Tecnología
+Smart TV 50;2800000;3;45000;Tecnología
+Smart TV 32;1400000;5;35000;Tecnología
+Aire Acondicionado Inteligente;3500000;2;60000;Tecnología
+Alexa Echo Dot;280000;8;12000;Tecnología
+Google Chromecast;190000;12;10000;Tecnología
+Cámara de Seguridad;350000;10;15000;Tecnología
+Timbre Inteligente;420000;4;18000;Tecnología
+Disco SSD 500GB;260000;11;12000;Tecnología
+Laptop Gamer;5800000;3;50000;Tecnología
+MacBook Air;6200000;2;55000;Tecnología
+Teclado Mecánico;280000;9;12000;Tecnología
+Mouse Gamer;160000;13;10000;Tecnología
+Silla Ergonómica;780000;4;30000;Tecnología
+Hub USB;90000;20;7000;Tecnología
+Cargador Inalámbrico;120000;15;9000;Tecnología
+Power Bank;180000;10;10000;Tecnología
+Gafas VR;2400000;3;45000;Tecnología
+Proyector Portátil;980000;5;25000;Tecnología
+Impresora 3D;3200000;2;50000;Tecnología
+Cámara GoPro;2100000;4;35000;Tecnología
+Smart Band;150000;16;10000;Tecnología
+Mini PC;1750000;5;30000;Tecnología
+Docking Station;350000;7;15000;Tecnología
