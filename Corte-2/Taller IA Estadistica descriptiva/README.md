@@ -35,10 +35,6 @@ El trabajo consiste en un análisis estadístico descriptivo de la variable **Ap
 - La mayor parte de los usuarios presenta una cantidad moderada de aplicaciones descargadas, concentrada en los intervalos centrales de la distribución.
 - Solo una pequeña proporción de usuarios presenta cantidades de descargas considerablemente altas o bajas, lo que evidencia un patrón de comportamiento similar en la mayoría de la muestra.
 
-## Archivos del repositorio
-- [Informe.pdf](Taller%20IA%20Estadistica%20descriptiva/Informe.pdf)
-- [Taller_destadistica_descritiva-frecuencias (Cristian).xlsx](Taller%20IA%20Estadistica%20descriptiva/Taller_destadistica_descritiva-frecuencias%20(Cristian).xlsx)
-
 ## Autor
 **Cristian David Garcia Valderrama**
 Universidad del Pacífico — Ingeniería de Sistemas
